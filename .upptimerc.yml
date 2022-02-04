@@ -1,5 +1,5 @@
 # Change these first
-owner: Jonathang-Espinoza # Your GitHub organization or username, where this repository lives
+owner: jonathang-espinoza # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -12,7 +12,7 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 assignees:
-  - Jonathang-Espinoza
+  - jonathang-espinoza
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
